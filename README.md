@@ -6,7 +6,7 @@
 
  User interface design for robot control system using HTML contains 6 motors, range sliders to determine the value of the angles and directions.
  
-**1-Log.html**
+**1-Login.html**
 
  User interface design for Login in robot control system using HTML contains Sign in , Sign up buttons.
  
